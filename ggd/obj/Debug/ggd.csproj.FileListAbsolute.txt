@@ -1,0 +1,13 @@
+C:\Users\jimmy\source\repos\ggd\ggd\bin\Debug\ggd.exe.config
+C:\Users\jimmy\source\repos\ggd\ggd\bin\Debug\ggd.exe
+C:\Users\jimmy\source\repos\ggd\ggd\bin\Debug\ggd.pdb
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.Properties.Resources.resources
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.csproj.GenerateResource.cache
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.exe
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.pdb
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.UserControl1.resources
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.entrance.resources
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.Form_main.resources
+C:\Users\jimmy\source\repos\ggd\ggd\obj\Debug\ggd.sel_role.resources
